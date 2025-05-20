@@ -109,8 +109,9 @@ Este proyecto refuerza los conceptos esenciales de programación orientada a obj
 - Cálculo de sumatorias, promedios, máximos y mínimos.
 
 ### 🎥 Videos de los ejercicios (explicacion): 
-Ejercicio For Each I : www.youtube.com/watch?v=m1SAvmi3xuo
-Ejercicio Promedio y sumatoria: https://www.youtube.com/watch?v=FfM6uT5gBpY 
-Ejercicio Maximos y minimos: https://www.youtube.com/watch?v=Xd9WLmU2Asc
+
+- Ejercicio For Each I : www.youtube.com/watch?v=m1SAvmi3xuo
+- Ejercicio Promedio y sumatoria: https://www.youtube.com/watch?v=FfM6uT5gBpY 
+- Ejercicio Maximos y minimos: https://www.youtube.com/watch?v=Xd9WLmU2Asc
 
 Estas herramientas son clave para desarrollar sistemas robustos y eficientes en Java, facilitando la reutilización, escalabilidad y mantenimiento del código.
