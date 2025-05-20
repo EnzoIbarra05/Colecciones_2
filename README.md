@@ -108,10 +108,7 @@ Este proyecto refuerza los conceptos esenciales de programación orientada a obj
 - Aplicación del ciclo `for-each` para recorrer listas.
 - Cálculo de sumatorias, promedios, máximos y mínimos.
 
-### 🎥 Videos de los ejercicios (explicacion): 
-
-- Ejercicio For Each I : www.youtube.com/watch?v=m1SAvmi3xuo
-- Ejercicio Promedio y sumatoria: https://www.youtube.com/watch?v=FfM6uT5gBpY 
-- Ejercicio Maximos y minimos: https://www.youtube.com/watch?v=Xd9WLmU2Asc
+🎥 Videos de los ejercicios (explicación):
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m1SAvmi3xuo" title="Ejercicio For Each I" frameborder="0" allowfullscreen></iframe> <br> <iframe width="560" height="315" src="https://www.youtube.com/embed/FfM6uT5gBpY" title="Ejercicio Promedio y Sumatoria" frameborder="0" allowfullscreen></iframe> <br> <iframe width="560" height="315" src="https://www.youtube.com/embed/Xd9WLmU2Asc" title="Ejercicio Máximos y Mínimos" frameborder="0" allowfullscreen></iframe>
 
 Estas herramientas son clave para desarrollar sistemas robustos y eficientes en Java, facilitando la reutilización, escalabilidad y mantenimiento del código.
