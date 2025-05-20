@@ -4,10 +4,10 @@ Este proyecto está centrado en el uso de **colecciones en Java** y operaciones 
 
 ## 📚 Tabla de Contenidos
 
-- Ciclo For Each en Java
-- Promedio y Sumatoria en una Colección
-- Máximos y Mínimos en una Colección
-- Conclusión, aprendizaje y videos.
+- [🔁 Ciclo For Each en Java](#-parte-1-ciclo-for-each-en-java)  
+- [🧩 Promedio y Sumatoria en una Colección](#-parte-2-promedio-y-sumatoria-en-una-colección)  
+- [🧩 Máximos y Mínimos en una Colección](#-parte-3-máximos-y-mínimos)  
+- [🧠 Conclusión, aprendizaje y videos](#-parte-4-conclusión-y-aprendizaje)
 
 ---
 
