@@ -7,7 +7,7 @@ Este proyecto está centrado en el uso de **colecciones en Java** y operaciones 
 - Ciclo For Each en Java
 - Promedio y Sumatoria en una Colección
 - Máximos y Mínimos en una Colección
-- Conclusión y aprendizaje
+- Conclusión, aprendizaje y videos.
 
 ---
 
@@ -107,5 +107,10 @@ Este proyecto refuerza los conceptos esenciales de programación orientada a obj
 - Uso de `ArrayList` para almacenar y manejar objetos.
 - Aplicación del ciclo `for-each` para recorrer listas.
 - Cálculo de sumatorias, promedios, máximos y mínimos.
+
+### 🎥 Videos de los ejercicios (explicacion): 
+Ejercicio For Each I : www.youtube.com/watch?v=m1SAvmi3xuo
+Ejercicio Promedio y sumatoria: https://www.youtube.com/watch?v=FfM6uT5gBpY 
+Ejercicio Maximos y minimos: https://www.youtube.com/watch?v=Xd9WLmU2Asc
 
 Estas herramientas son clave para desarrollar sistemas robustos y eficientes en Java, facilitando la reutilización, escalabilidad y mantenimiento del código.
